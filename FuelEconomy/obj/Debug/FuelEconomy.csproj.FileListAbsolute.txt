@@ -1,0 +1,10 @@
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\FuelEconomy\bin\Debug\FuelEconomy.exe.config
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\FuelEconomy\bin\Debug\FuelEconomy.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\FuelEconomy\bin\Debug\FuelEconomy.pdb
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\FuelEconomy\obj\Debug\FuelEconomy.csprojAssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\FuelEconomy\obj\Debug\FuelEconomy.Form1.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\FuelEconomy\obj\Debug\FuelEconomy.Properties.Resources.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\FuelEconomy\obj\Debug\FuelEconomy.csproj.GenerateResource.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\FuelEconomy\obj\Debug\FuelEconomy.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\FuelEconomy\obj\Debug\FuelEconomy.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\FuelEconomy\obj\Debug\FuelEconomy.pdb
